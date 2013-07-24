@@ -86,13 +86,29 @@
       Password: <input type="text" size="80"/><br />
       <input type="checkbox" name="pooh" id="pooh" />Pooh<br />
       <input type="checkbox" name="tigger" id="tigger" checked="checked"/>Tigger<br />
-      <p> Where is your base? </p>
-      <select size="6" multiple="multiple">
-	<option value="PLAB">Paya Lebar</option>
-	<option value="SBAB" selected="selected">Sembawang</option>
-	<option value="CAB">Changi</option>
-	<option value="TAB">Tengah</option>
-      </select>
+      <fieldset>
+	<legend>randomness is king</legend>
+	<p> Where is your base? </p>
+	<select size="6" multiple="multiple">
+	  <optgroup label="Good food">
+	  <option value="PLAB">Paya Lebar</option>
+	  <option value="SBAB" selected="selected">Sembawang</option>
+	  </optgroup>
+	  <optgroup label="horrible accessibility">
+	  <option value="CAB">Changi</option>
+	  <option value="TAB">Tengah</option>
+	  </optgroup>
+	</select>
+	<p>
+	  Let us know what you think of our LI-Ion batteries<br />
+	</p>
+	<textarea rows="15" cols="30" name="Boeing" id="Boeing">
+Please don't be too harsh on us!
+	</textarea>
+      </fieldset>
+      <input type="reset" value="reset" alt="does this appear"/>
+      <br />
+      <input type="submit" value="submission" id="submit"/>
     </form>
 
   </Body>
