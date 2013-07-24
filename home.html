@@ -62,18 +62,38 @@
 	<td>Belly rub</td>
       </tr>
       <tr>
-	<td colspan="2" rowspan="2">
+	<td colspan="2" rowspan="1">
 	  Pinky Phale
 	</td>
-	<th rowspan="2">
+	<th rowspan="1">
 	  Run Away
 	</th>
       </tr>
+      <tr>
+	<td>lalalala</td>
+	<td colspan="2" rowspan="2"></td>
+      </tr>
+      <tr>
+	<td colspan="1">
+	  <form method="get">
+	    Where is the minke whale? <input type="text" /><br />
+	  </form>
+	</td>
+      </tr>
     </Table>
     <form method="get">
-      UserID: <input type="text" /><br />
-      Password: <input type="text" /><br />
-
+      UserID: <input type="text" name="ID" id="ID" size="40" maxlength="10" /><br />
+      Password: <input type="text" size="80"/><br />
+      <input type="checkbox" name="pooh" id="pooh" />Pooh<br />
+      <input type="checkbox" name="tigger" id="tigger" checked="checked"/>Tigger<br />
+      <p> Where is your base? </p>
+      <select size="6" multiple="multiple">
+	<option value="PLAB">Paya Lebar</option>
+	<option value="SBAB" selected="selected">Sembawang</option>
+	<option value="CAB">Changi</option>
+	<option value="TAB">Tengah</option>
+      </select>
+    </form>
 
   </Body>
   
