@@ -15,4 +15,4 @@ td {background-color: #ccc; color: #123456; border: 1px solid black;}
 
 /* fieldset style */
 
-fieldset {background-image: url(RS125.jpg);}
+fieldset {background-image: url(RS125.jpg); background-repeat: no-repeat; background-position: left;}
