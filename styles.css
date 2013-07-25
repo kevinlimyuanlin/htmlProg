@@ -12,3 +12,7 @@ th {background-color: #333; border:}
 tr {background-color: #999;}
 td {background-color: #ccc; color: #123456; border: 1px solid black;}
 .highlight {background-color: #fff; color: orange;}
+
+/* fieldset style */
+
+fieldset {background-image: url(RS125.jpg);}
