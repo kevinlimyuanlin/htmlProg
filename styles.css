@@ -1,8 +1,8 @@
 /* body style */
 
 body {font-family: Georgia, Times; font-size: 1em; color: #000099; background-color: #808080;}
-.always-style {font-family: verdana, arial; color: #66F; text-align: justify; text-indent: 34px; text-transform: lower case;}
-a {color: #663399; text-decoration: blink;}
+.always-style {font-family: verdana, arial; color: #66F; text-align: justify; text-indent: 34px; text-transform: lowercase;}
+a {color: #663399; text-decoration: line-through;}
 body {background-image: url(twPic.jpg);}
 
 /* header style */
