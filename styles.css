@@ -1,6 +1,6 @@
 /* body style */
 
-body {font-family: Georgia, Times; font-size: 1em; color: #000099; background-color: #808080; text-align: right;}
+body {font-family: Georgia, Times; font-size: 1em; color: #000099; background-color: #808080;}
 .always-style {font-family: verdana, arial; color: #66F; text-align: justify; text-indent: 34px; text-transform: lower case}
 a {color: #663399; text-decoration: blink}
 body {background-image: url(twPic.jpg);}
@@ -8,7 +8,7 @@ body {background-image: url(twPic.jpg);}
 /* header style */
 h1,h2 {font-family: Verdana, Arial; font-weight: bold; color: black; font-size: 2em}
 h2 {font-size: 85%; font-weight: lighter; font-style: italic; font-variant: small caps}
-
+h3 {text-align: right;}
 /* table style */
 
 caption {background-color:#999; border: 1px solid black}
