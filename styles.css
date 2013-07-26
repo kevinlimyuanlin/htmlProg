@@ -1,3 +1,8 @@
+/* header style */
+h1,h2 {font-family: Verdana, Arial; font size: 1em; font-weight: bold; color: black; font-size: 150%}
+h2 {font-size: smaller; font-weight: lighter; font-style: italic;}
+
+
 /* body style */
 
 body {color: #FFCC99; background-color:#808080;}
