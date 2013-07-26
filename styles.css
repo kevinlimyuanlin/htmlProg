@@ -1,13 +1,12 @@
-/* header style */
-h1,h2 {font-family: Verdana, Arial; font-weight: bold; color: black; font-size: 2em}
-h2 {font-size: smaller; font-weight: lighter; font-style: italic;}
-
-
 /* body style */
 
 body {font-family: Georgia, Times; font-size: 1em color: #000099; background-color:#808080; text-align: justify}
 a {color: #66CC33;}
 body {background-image: url(twPic.jpg);}
+
+/* header style */
+h1,h2 {font-family: Verdana, Arial; font-weight: bold; color: black; font-size: 2em}
+h2 {font-size: smaller; font-weight: lighter; font-style: italic;}
 
 /* table style */
 
