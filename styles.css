@@ -5,10 +5,13 @@ body {font-family: Georgia, Times; font-size: 1em; color: #000099; background-co
 a {color: #663399; text-decoration: line-through;}
 body {background-image: url(twPic.jpg);}
 
+
 /* header style */
-h1,h2 {font-family: Verdana, Arial; font-weight: bold; color: black; font-size: 2em}
+h1,h2 {font-family: Verdana, Arial; font-weight: bold; color: black; font-size: 2em; text-shadow: 1px 1px 0 black}
 h2 {font-size: 120%; font-weight: lighter; font-style: italic; font-variant: small caps}
 h3 {text-align: right;}
+h3:first-letter {font-weight: bold; color: black;}
+h3:first-line {font-style: italic;}
 /* table style */
 
 caption {background-color:#999; border: 1px solid black}
