@@ -8,9 +8,9 @@ a:visted {color:yellow; text-decoration: underline}
 a:hover {color: fuchsia; text-decoration: overline}
 a:active {color: red;}
 
-a.yt {color:black; font-family: cursive;}
+a.yt {color:black; font-family: Western;}
 a.yt:link {color: red; text-decoration: line-Through;}
-#majAch {color: 9900FF}
+#majAch {color: 9900FF; font-family: Chiller;}
 
 Body {background-image: url(twPic.jpg);}
 
