@@ -8,7 +8,7 @@ a:visted {color:yellow; text-decoration: underline}
 a:hover {color: fuchsia; text-decoration: overline}
 a:active {color: red;}
 
-a.yt {color:black; font-family: 'Jim Nightshade', cursive;}
+a.yt {color:black; font-family: "Jim Nightshade", cursive;}
 a.yt:link {color: red; text-decoration: line-through;}
 #majAch {color: #9900FF; font-family: 'Henny Penny', cursive;}
 
