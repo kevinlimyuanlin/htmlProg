@@ -1,9 +1,9 @@
 /* imports */
-@import url(http://fonts.googleapis.com/css?family=Jim+Nightshade|Henny+Penny)
+@import url("http://fonts.googleapis.com/css?family=Jim+Nightshade|Henny+Penny")
 
 /* body style */
 
-body {font-family: Georgia, Times; font-size: 1em; color: #000099; background-color: #808080;}
+body {font-family: 'Henny Penny', Georgia, Times; font-size: 1em; color: #000099; background-color: #808080;}
 .always-style {font-family: verdana, arial; color: #66F; text-align: justify; text-indent: 34px; text-transform: lowercase;}
 a {color: #663399; text-decoration: line-through;}
 a:link {color:orange;}
