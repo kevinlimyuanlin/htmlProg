@@ -3,7 +3,16 @@
 body {font-family: Georgia, Times; font-size: 1em; color: #000099; background-color: #808080;}
 .always-style {font-family: verdana, arial; color: #66F; text-align: justify; text-indent: 34px; text-transform: lowercase;}
 a {color: #663399; text-decoration: line-through;}
-body {background-image: url(twPic.jpg);}
+a:link {color:orange;}
+a:visted {color:yellow; text-decoration: underline}
+a:hover {color: fuchsia; text-decoration: overline}
+a:active {color: red;}
+
+a.yt {color:black; font-family: cursive;}
+a.yt:link {color: red; text-decoration: line-Through;}
+#majAch {color: 9900FF}
+
+Body {background-image: url(twPic.jpg);}
 
 
 /* header style */
